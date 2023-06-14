@@ -9,6 +9,8 @@ body{
 ::selection{
     background-color: rgba(0, 167, 131, 0.496);
     color: black;
+.fontchange{
+    font-family: 'Courier New', monospace;
 }
 .ng{
     height: 70px;
