@@ -3,7 +3,7 @@ body{
     background-color: #000408f1;
     color: white;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 35px;
     overflow-x: hidden;
 }
 ::selection{
@@ -12,7 +12,7 @@ body{
 }
 .ng{
     height: 40px;
-    margin-right: 12%;
+    margin-right: 16%;
     margin-left: -38%;
     transition:0.7s;
     border-radius: 50%;
