@@ -16,7 +16,7 @@ body{
 .ng{
     height: 70px;
     margin-right: 13%;
-    margin-left: -31%;
+    margin-left: -28%;
     transition:0.7s;
     border-radius: 50%;
 }
@@ -39,7 +39,7 @@ body{
 .gmail{
     height: 70px;
     margin-right: 18%;
-    margin-left: -38%;
+    margin-left: -36%;
     border-radius: 50%;
     transition:0.7s;
 }
