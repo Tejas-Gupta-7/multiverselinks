@@ -13,7 +13,9 @@ body{
 .fontchange{
     font-family: 'Courier New', monospace;
     padding:7%;
-     margin-left: 50%;
+}
+.gap{
+    margin-left: 50%;
     transform: translateX(-50%);
 }
 .textname{
