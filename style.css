@@ -85,10 +85,10 @@ hr{
         margin-left: 20%;
     }
     .logo{
-        margin-top:2%;
+        margin-top:4%;
     height: 35px;
     margin-right: 30%;
-    margin-left: -0.5%;
+    margin-left: 1%;
     border-radius: 50%;
     transition:0.7s;
 }
